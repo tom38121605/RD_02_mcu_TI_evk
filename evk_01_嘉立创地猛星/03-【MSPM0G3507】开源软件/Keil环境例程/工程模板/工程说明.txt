@@ -1,0 +1,3 @@
+MSPM0G3507_Project.zip：【32MHz主频】模块移植使用的是该模板
+
+80MHz_MSPM0G3507_Project.zip：【80MHz主频】
