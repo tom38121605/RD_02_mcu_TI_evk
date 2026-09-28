@@ -1,0 +1,38 @@
+﻿
+0.  https://e2e.ti.com/                         //官方答疑
+
+1. https://pan.baidu.com/s/18j0_RK3Nxm7dJ3TTC74rhw?pwd=LCKF    //evk 百度网盘
+
+2. https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-di-meng-xing-mspm0g3507-kai-fa-ban   //开源工程网页地址
+
+3. https://wiki.lckfb.com/zh-hans/dmx/beginner/      //初学者网址， 含sdk下载
+
+4. https://wiki.lckfb.com/zh-hans/dmx/module/        //初学者： 一步一步示例说明，含环境搭建，示例讲解
+
+5. -----keil pack： https://www.keil.arm.com/packs/mspm0g1x0x_g3x0x_dfp-texasinstruments/versions/ 
+5. -----https://www.ti.com/tool/SYSCONFIG
+5. -----13538121605@139.com  (9~8888a~)
+
+
+6. 安装视频或官方教程
+
+   1). https://www.bilibili.com/video/BV1cLGtzcEEr/?spm_id_from=333.337.search-card.all.click&vd_source=1aabf6d13273d470d124a884db6b11d0    //绝对路径empty，sysconfig小灯
+   2). https://www.bilibili.com/video/BV19noxYCENq/?spm_id_from=333.337.search-card.all.click&vd_source=1aabf6d13273d470d124a884db6b11d0    //新建工程，只调出sysconfig
+   3). https://www.bilibili.com/video/BV1TQJuzMEsF/?spm_id_from=333.337.search-card.all.click&vd_source=1aabf6d13273d470d124a884db6b11d0    //相对路径empty, 用sysconfig设置小灯
+   4). https://dev.ti.com/tirex/explore/node?node=A__AESdJvYLg1C9HsRT6KnuNA__MSPM0-SDK__a3PaaoK__LATEST       //官方教程
+
+   5). https://www.bilibili.com/video/BV1Xf421S7BM?spm_id_from=333.788.videopod.sections&vd_source=1aabf6d13273d470d124a884db6b11d0     //外设示例，讲的超级好，堪比江科大
+   6). https://dev.ti.com/tirex/explore/node?isTheia=false&node=A__AEIJm0rwIeU.2P1OBWwlaA__MSPM0-ACADEMY-CN__Gx9d9qT__LATEST              //TI线上培训
+
+
+---------------------------以下是bbs论坛-------------------------------
+
+   TI E2E 论坛
+   中文 E2E（国内访问优先，中文发帖）E2E? ...
+   https://e2echina.ti.com/
+
+   全球英文原版 E2E（资料最全，搜索 bug、SDK 问题）TI E2E sup...
+   https://e2e.ti.com/
+
+
+    
